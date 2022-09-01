@@ -216,4 +216,4 @@ public class Hello{
 
 
 
-常量类型（具体值）默认为int型，声明long型常量需在后加 “l” 或 "L"
+常量类型（具体值）默认为int型，声明long型常量需在后加 “l” 或 "L" ；
